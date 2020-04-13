@@ -7,13 +7,11 @@
   <test thread-count="5" name="MarshPanel Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.MarshPanel.TestCases.TC_Dashboard_001">
+      <class name="com.MarshPanel.TestCases.TC_ForgotPassword_002_OTP">
         <methods>
-          <include name="tearDown"/>
-          <include name="loginTest2" invocation-numbers="0"/>
-          <include name="setup"/>
+          <include name="forgotpassword3"/>
         </methods>
-      </class> <!-- com.MarshPanel.TestCases.TC_Dashboard_001 -->
+      </class> <!-- com.MarshPanel.TestCases.TC_ForgotPassword_002_OTP -->
     </classes>
   </test> <!-- MarshPanel Test(failed) -->
 </suite> <!-- Failed suite [MarshPanel_V1] -->

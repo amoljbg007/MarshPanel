@@ -488,3 +488,248 @@
 2020-04-10 12:22:40,959 [main] INFO MarshPanel - password provided
 2020-04-10 12:22:47,336 [main] INFO MarshPanel - user name provided
 2020-04-10 12:22:47,446 [main] INFO MarshPanel - password provided
+2020-04-11 21:28:45,237 [main] INFO MarshPanel - Forgot Password Option selected
+2020-04-11 21:28:47,723 [main] INFO MarshPanel - Proceed button click with email id blank
+2020-04-11 21:28:47,747 [main] INFO MarshPanel - Valid error message display
+2020-04-11 21:28:53,584 [main] INFO MarshPanel - Valid error message display
+2020-04-11 21:28:59,550 [main] INFO MarshPanel - Valid error message display
+2020-04-11 21:32:47,847 [main] INFO MarshPanel - Forgot Password Option selected
+2020-04-11 21:32:50,361 [main] INFO MarshPanel - Proceed button click with email id blank
+2020-04-11 21:32:50,387 [main] INFO MarshPanel - Valid error message display
+2020-04-11 21:32:56,278 [main] INFO MarshPanel - Proceed button click with employee id blank
+2020-04-11 21:32:56,301 [main] INFO MarshPanel - Valid error message display
+2020-04-11 21:33:02,786 [main] INFO MarshPanel - Proceed button click with DOB blank
+2020-04-11 21:33:02,804 [main] INFO MarshPanel - Valid error message display
+2020-04-11 21:36:08,271 [main] INFO MarshPanel - Forgot Password Option selected
+2020-04-11 21:36:10,745 [main] INFO MarshPanel - Proceed button click with email id blank
+2020-04-11 21:36:10,769 [main] INFO MarshPanel - Valid error message display
+2020-04-11 21:36:16,664 [main] INFO MarshPanel - Proceed button click with employee id blank
+2020-04-11 21:36:16,682 [main] INFO MarshPanel - Valid error message display
+2020-04-11 21:36:22,655 [main] INFO MarshPanel - Proceed button click with DOB blank
+2020-04-11 21:36:22,671 [main] INFO MarshPanel - Valid error message display
+2020-04-11 21:36:22,689 [main] INFO MarshPanel - test1
+2020-04-11 21:36:22,920 [main] INFO MarshPanel - test2
+2020-04-11 21:39:17,952 [main] INFO MarshPanel - Forgot Password Option selected
+2020-04-11 21:39:20,476 [main] INFO MarshPanel - Proceed button click with email id blank
+2020-04-11 21:39:20,501 [main] INFO MarshPanel - Valid error message display
+2020-04-11 21:39:26,802 [main] INFO MarshPanel - Proceed button click with employee id blank
+2020-04-11 21:39:26,823 [main] INFO MarshPanel - Valid error message display
+2020-04-11 21:39:32,759 [main] INFO MarshPanel - Proceed button click with DOB blank
+2020-04-11 21:39:32,777 [main] INFO MarshPanel - Valid error message display
+2020-04-11 21:39:32,795 [main] INFO MarshPanel - test1
+2020-04-11 21:39:33,014 [main] INFO MarshPanel - test2
+2020-04-11 21:40:58,300 [main] INFO MarshPanel - Forgot Password Option selected
+2020-04-11 21:41:01,873 [main] INFO MarshPanel - Proceed button click with email id blank
+2020-04-11 21:41:01,935 [main] INFO MarshPanel - Valid error message display
+2020-04-11 21:41:07,684 [main] INFO MarshPanel - Proceed button click with employee id blank
+2020-04-11 21:41:07,702 [main] INFO MarshPanel - Valid error message display
+2020-04-11 21:41:13,739 [main] INFO MarshPanel - Proceed button click with DOB blank
+2020-04-11 21:41:13,758 [main] INFO MarshPanel - Valid error message display
+2020-04-11 21:41:13,777 [main] INFO MarshPanel - test1
+2020-04-11 21:42:12,547 [main] INFO MarshPanel - Forgot Password Option selected
+2020-04-11 21:42:14,941 [main] INFO MarshPanel - Proceed button click with email id blank
+2020-04-11 21:42:14,966 [main] INFO MarshPanel - Valid error message display
+2020-04-11 21:42:20,818 [main] INFO MarshPanel - Proceed button click with employee id blank
+2020-04-11 21:42:20,848 [main] INFO MarshPanel - Valid error message display
+2020-04-11 21:42:26,803 [main] INFO MarshPanel - Proceed button click with DOB blank
+2020-04-11 21:42:26,820 [main] INFO MarshPanel - Valid error message display
+2020-04-11 21:42:26,839 [main] INFO MarshPanel - test1
+2020-04-11 21:42:29,501 [main] INFO MarshPanel - Proceed button click with email id format invalid
+2020-04-11 21:42:29,518 [main] INFO MarshPanel - Valid error message display
+2020-04-11 21:44:10,415 [main] INFO MarshPanel - Forgot Password Option selected
+2020-04-11 21:44:14,211 [main] INFO MarshPanel - Proceed button click with email id blank
+2020-04-11 21:44:14,234 [main] INFO MarshPanel - Valid error message display
+2020-04-11 21:44:20,247 [main] INFO MarshPanel - Proceed button click with employee id blank
+2020-04-11 21:44:20,264 [main] INFO MarshPanel - Valid error message display
+2020-04-11 21:44:26,227 [main] INFO MarshPanel - Proceed button click with DOB blank
+2020-04-11 21:44:26,246 [main] INFO MarshPanel - Valid error message display
+2020-04-11 21:44:28,937 [main] INFO MarshPanel - Proceed button click with email id format invalid
+2020-04-11 21:44:28,956 [main] INFO MarshPanel - Valid error message display
+2020-04-11 22:32:00,489 [main] INFO MarshPanel - Forgot Password Option selected
+2020-04-11 22:32:03,066 [main] INFO MarshPanel - Proceed button click with email id blank
+2020-04-11 22:32:03,093 [main] INFO MarshPanel - Valid error message display
+2020-04-11 22:32:09,010 [main] INFO MarshPanel - Proceed button click with employee id blank
+2020-04-11 22:32:09,027 [main] INFO MarshPanel - Valid error message display
+2020-04-11 22:32:15,024 [main] INFO MarshPanel - Proceed button click with DOB blank
+2020-04-11 22:32:15,041 [main] INFO MarshPanel - Valid error message display
+2020-04-11 22:32:17,775 [main] INFO MarshPanel - Proceed button click with email id format invalid
+2020-04-11 22:32:17,792 [main] INFO MarshPanel - Valid error message display
+2020-04-11 22:32:21,211 [main] INFO MarshPanel - test1
+2020-04-11 22:33:32,673 [main] INFO MarshPanel - Forgot Password Option selected
+2020-04-11 22:33:35,297 [main] INFO MarshPanel - Proceed button click with email id blank
+2020-04-11 22:33:35,320 [main] INFO MarshPanel - Valid error message display
+2020-04-11 22:33:41,605 [main] INFO MarshPanel - Proceed button click with employee id blank
+2020-04-11 22:33:41,624 [main] INFO MarshPanel - Valid error message display
+2020-04-11 22:33:47,693 [main] INFO MarshPanel - Proceed button click with DOB blank
+2020-04-11 22:33:47,710 [main] INFO MarshPanel - Valid error message display
+2020-04-11 22:33:50,476 [main] INFO MarshPanel - Proceed button click with email id format invalid
+2020-04-11 22:33:50,494 [main] INFO MarshPanel - Valid error message display
+2020-04-11 22:33:53,787 [main] INFO MarshPanel - test1
+2020-04-11 22:35:23,537 [main] INFO MarshPanel - Forgot Password Option selected
+2020-04-11 22:35:25,972 [main] INFO MarshPanel - Proceed button click with email id blank
+2020-04-11 22:35:26,024 [main] INFO MarshPanel - Valid error message display
+2020-04-11 22:35:31,943 [main] INFO MarshPanel - Proceed button click with employee id blank
+2020-04-11 22:35:31,961 [main] INFO MarshPanel - Valid error message display
+2020-04-11 22:35:38,062 [main] INFO MarshPanel - Proceed button click with DOB blank
+2020-04-11 22:35:38,080 [main] INFO MarshPanel - Valid error message display
+2020-04-11 22:35:40,905 [main] INFO MarshPanel - Proceed button click with email id format invalid
+2020-04-11 22:35:40,923 [main] INFO MarshPanel - Valid error message display
+2020-04-11 22:35:44,295 [main] INFO MarshPanel - test1
+2020-04-11 22:37:10,435 [main] INFO MarshPanel - Forgot Password Option selected
+2020-04-11 22:37:12,957 [main] INFO MarshPanel - Proceed button click with email id blank
+2020-04-11 22:37:12,982 [main] INFO MarshPanel - Valid error message display
+2020-04-11 22:37:19,044 [main] INFO MarshPanel - Proceed button click with employee id blank
+2020-04-11 22:37:19,068 [main] INFO MarshPanel - Valid error message display
+2020-04-11 22:37:25,224 [main] INFO MarshPanel - Proceed button click with DOB blank
+2020-04-11 22:37:25,242 [main] INFO MarshPanel - Valid error message display
+2020-04-11 22:37:28,098 [main] INFO MarshPanel - Proceed button click with email id format invalid
+2020-04-11 22:37:28,117 [main] INFO MarshPanel - Valid error message display
+2020-04-11 22:37:31,515 [main] INFO MarshPanel - test1
+2020-04-11 22:37:31,640 [main] INFO MarshPanel - test3
+2020-04-11 22:38:20,208 [main] INFO MarshPanel - Forgot Password Option selected
+2020-04-11 22:38:22,895 [main] INFO MarshPanel - Proceed button click with email id blank
+2020-04-11 22:38:22,920 [main] INFO MarshPanel - Valid error message display
+2020-04-11 22:38:28,784 [main] INFO MarshPanel - Proceed button click with employee id blank
+2020-04-11 22:38:28,802 [main] INFO MarshPanel - Valid error message display
+2020-04-11 22:38:34,815 [main] INFO MarshPanel - Proceed button click with DOB blank
+2020-04-11 22:38:34,834 [main] INFO MarshPanel - Valid error message display
+2020-04-11 22:38:37,646 [main] INFO MarshPanel - Proceed button click with email id format invalid
+2020-04-11 22:38:37,664 [main] INFO MarshPanel - Valid error message display
+2020-04-11 22:38:43,917 [main] INFO MarshPanel - Proceed button click with DOB invalid format
+2020-04-11 22:38:43,938 [main] INFO MarshPanel - Invalid error message display
+2020-04-11 22:41:28,051 [main] INFO MarshPanel - Forgot Password Option selected
+2020-04-11 22:41:30,593 [main] INFO MarshPanel - Proceed button click with email id blank
+2020-04-11 22:41:30,618 [main] INFO MarshPanel - Valid error message display
+2020-04-11 22:41:36,933 [main] INFO MarshPanel - Proceed button click with employee id blank
+2020-04-11 22:41:36,974 [main] INFO MarshPanel - Valid error message display
+2020-04-11 22:41:42,941 [main] INFO MarshPanel - Proceed button click with DOB blank
+2020-04-11 22:41:42,962 [main] INFO MarshPanel - Valid error message display
+2020-04-11 22:41:45,830 [main] INFO MarshPanel - Proceed button click with email id format invalid
+2020-04-11 22:41:45,854 [main] INFO MarshPanel - Valid error message display
+2020-04-11 22:43:26,368 [main] INFO MarshPanel - Forgot Password Option selected
+2020-04-11 22:43:28,931 [main] INFO MarshPanel - Proceed button click with email id blank
+2020-04-11 22:43:28,954 [main] INFO MarshPanel - Valid error message display
+2020-04-11 22:43:35,328 [main] INFO MarshPanel - Proceed button click with employee id blank
+2020-04-11 22:43:35,346 [main] INFO MarshPanel - Valid error message display
+2020-04-11 22:43:41,312 [main] INFO MarshPanel - Proceed button click with DOB blank
+2020-04-11 22:43:41,331 [main] INFO MarshPanel - Valid error message display
+2020-04-11 22:43:43,989 [main] INFO MarshPanel - Proceed button click with email id format invalid
+2020-04-11 22:43:44,010 [main] INFO MarshPanel - Valid error message display
+2020-04-11 22:43:49,962 [main] INFO MarshPanel - Proceed button click with DOB invalid format
+2020-04-11 22:43:49,982 [main] INFO MarshPanel - Invalid error message display
+2020-04-11 22:48:45,065 [main] INFO MarshPanel - Forgot Password Option selected
+2020-04-11 22:48:48,017 [main] INFO MarshPanel - Proceed button click with email id blank
+2020-04-11 22:48:48,046 [main] INFO MarshPanel - Valid error message display
+2020-04-11 22:48:53,863 [main] INFO MarshPanel - Proceed button click with employee id blank
+2020-04-11 22:48:53,884 [main] INFO MarshPanel - Valid error message display
+2020-04-11 22:48:59,917 [main] INFO MarshPanel - Proceed button click with DOB blank
+2020-04-11 22:48:59,937 [main] INFO MarshPanel - Valid error message display
+2020-04-11 22:49:02,707 [main] INFO MarshPanel - Proceed button click with email id format invalid
+2020-04-11 22:49:02,730 [main] INFO MarshPanel - Valid error message display
+2020-04-11 22:49:08,791 [main] INFO MarshPanel - Proceed button click with DOB invalid format
+2020-04-11 22:49:08,810 [main] INFO MarshPanel - Valid error message display
+2020-04-11 22:49:14,870 [main] INFO MarshPanel - Proceed button click with DOB invalid format
+2020-04-11 22:49:14,885 [main] INFO MarshPanel - Invalid error message display
+2020-04-11 23:00:22,600 [main] INFO MarshPanel - Forgot Password Option selected
+2020-04-11 23:00:25,067 [main] INFO MarshPanel - Proceed button click with email id blank
+2020-04-11 23:00:25,091 [main] INFO MarshPanel - Valid error message display
+2020-04-11 23:00:30,915 [main] INFO MarshPanel - Proceed button click with employee id blank
+2020-04-11 23:00:30,931 [main] INFO MarshPanel - Valid error message display
+2020-04-11 23:00:36,612 [main] INFO MarshPanel - Proceed button click with DOB blank
+2020-04-11 23:00:36,629 [main] INFO MarshPanel - Valid error message display
+2020-04-11 23:00:39,315 [main] INFO MarshPanel - Proceed button click with email id format invalid
+2020-04-11 23:00:39,332 [main] INFO MarshPanel - Valid error message display
+2020-04-11 23:00:45,133 [main] INFO MarshPanel - Proceed button click with DOB invalid format
+2020-04-11 23:00:45,152 [main] INFO MarshPanel - Valid error message display
+2020-04-11 23:00:52,582 [main] INFO MarshPanel - Proceed button click with email ID
+2020-04-11 23:00:52,601 [main] INFO MarshPanel - Valid error message display
+2020-04-11 23:00:59,436 [main] INFO MarshPanel - Proceed button click with wrong employee ID
+2020-04-11 23:00:59,454 [main] INFO MarshPanel - Invalid error message display
+2020-04-11 23:08:16,711 [main] INFO MarshPanel - Forgot Password Option selected
+2020-04-11 23:08:19,081 [main] INFO MarshPanel - Proceed button click with email id blank
+2020-04-11 23:08:19,106 [main] INFO MarshPanel - Valid error message display - Test Passed
+2020-04-11 23:08:24,740 [main] INFO MarshPanel - Proceed button click with employee id blank
+2020-04-11 23:08:24,756 [main] INFO MarshPanel - Valid error message display - Test Passed
+2020-04-11 23:08:30,441 [main] INFO MarshPanel - Proceed button click with DOB blank
+2020-04-11 23:08:30,461 [main] INFO MarshPanel - Valid error message display - Test Passed
+2020-04-11 23:08:33,063 [main] INFO MarshPanel - Proceed button click with email id format invalid
+2020-04-11 23:08:33,079 [main] INFO MarshPanel - Valid error message display - Test Passed
+2020-04-11 23:08:39,448 [main] INFO MarshPanel - Proceed button click with DOB invalid format
+2020-04-11 23:08:39,471 [main] INFO MarshPanel - Valid error message display - Test Passed
+2020-04-11 23:08:46,112 [main] INFO MarshPanel - Proceed button click with email ID
+2020-04-11 23:08:46,127 [main] INFO MarshPanel - Valid error message display - Test Passed
+2020-04-11 23:08:52,866 [main] INFO MarshPanel - Proceed button click with wrong employee ID
+2020-04-11 23:08:52,882 [main] INFO MarshPanel - Valid error message display - Test Passed
+2020-04-11 23:08:59,605 [main] INFO MarshPanel - Proceed button click with wrong DOB
+2020-04-11 23:08:59,622 [main] INFO MarshPanel - Valid error message display - Test Passed
+2020-04-11 23:12:48,068 [main] INFO MarshPanel - Forgot Password Option selected
+2020-04-11 23:12:50,471 [main] INFO MarshPanel - Proceed button click with email id blank
+2020-04-11 23:12:50,500 [main] INFO MarshPanel - Valid error message display - Test Passed
+2020-04-11 23:12:56,067 [main] INFO MarshPanel - Proceed button click with employee id blank
+2020-04-11 23:12:56,084 [main] INFO MarshPanel - Invalid error message display - Test Failed
+2020-04-11 23:13:02,391 [main] INFO MarshPanel - Proceed button click with DOB blank
+2020-04-11 23:13:02,409 [main] INFO MarshPanel - Valid error message display - Test Passed
+2020-04-11 23:13:04,995 [main] INFO MarshPanel - Proceed button click with email id format invalid
+2020-04-11 23:13:05,012 [main] INFO MarshPanel - Invalid error message display - Test Failed
+2020-04-11 23:13:11,130 [main] INFO MarshPanel - Proceed button click with DOB invalid format
+2020-04-11 23:13:11,145 [main] INFO MarshPanel - Valid error message display - Test Passed
+2020-04-11 23:13:17,799 [main] INFO MarshPanel - Proceed button click with email ID
+2020-04-11 23:13:17,816 [main] INFO MarshPanel - Valid error message display - Test Passed
+2020-04-11 23:13:24,528 [main] INFO MarshPanel - Proceed button click with wrong employee ID
+2020-04-11 23:13:24,545 [main] INFO MarshPanel - Valid error message display - Test Passed
+2020-04-11 23:13:31,280 [main] INFO MarshPanel - Proceed button click with wrong DOB
+2020-04-11 23:13:31,299 [main] INFO MarshPanel - Valid error message display - Test Passed
+2020-04-11 23:29:28,558 [main] INFO MarshPanel - Forgot Password Option selected
+2020-04-11 23:29:30,731 [main] INFO MarshPanel - Proceed button click with email id blank
+2020-04-11 23:29:30,757 [main] INFO MarshPanel - Valid error message display - Test Passed
+2020-04-11 23:31:16,682 [main] INFO MarshPanel - Forgot Password Option selected
+2020-04-11 23:31:19,078 [main] INFO MarshPanel - Proceed button click with email id blank
+2020-04-11 23:31:19,108 [main] INFO MarshPanel - Valid error message display - Test Passed
+2020-04-11 23:31:53,877 [main] INFO MarshPanel - Forgot Password Option selected
+2020-04-11 23:31:56,269 [main] INFO MarshPanel - Proceed button click with email id blank
+2020-04-11 23:31:56,292 [main] INFO MarshPanel - Invalid error message display - Test Failed
+2020-04-12 23:56:54,462 [main] INFO MarshPanel - Forgot Password Option selected
+2020-04-12 23:56:56,981 [main] INFO MarshPanel - Proceed button click with email id blank
+2020-04-12 23:56:57,005 [main] INFO MarshPanel - Valid error message display - Test Passed
+2020-04-12 23:56:59,778 [main] INFO MarshPanel - Proceed button click with email id format invalid
+2020-04-12 23:56:59,795 [main] INFO MarshPanel - Valid error message display - Test Passed
+2020-04-12 23:57:05,529 [main] INFO MarshPanel - Proceed button click with wrong email ID
+2020-04-12 23:57:05,543 [main] INFO MarshPanel - Invalid error message display - Test Failed
+2020-04-12 23:57:11,614 [main] INFO MarshPanel - Proceed button click with valid Details
+2020-04-12 23:57:11,621 [main] INFO MarshPanel - User Information page display - Test Passed
+2020-04-12 23:57:11,822 [main] INFO MarshPanel - null
+2020-04-12 23:57:11,822 [main] INFO MarshPanel - null
+2020-04-12 23:57:11,823 [main] INFO MarshPanel - null
+2020-04-13 00:00:51,413 [main] INFO MarshPanel - Forgot Password Option selected
+2020-04-13 00:00:53,808 [main] INFO MarshPanel - Proceed button click with email id blank
+2020-04-13 00:00:53,838 [main] INFO MarshPanel - Valid error message display - Test Passed
+2020-04-13 00:00:56,376 [main] INFO MarshPanel - Proceed button click with email id format invalid
+2020-04-13 00:00:56,410 [main] INFO MarshPanel - Valid error message display - Test Passed
+2020-04-13 00:01:02,007 [main] INFO MarshPanel - Proceed button click with wrong email ID
+2020-04-13 00:01:02,026 [main] INFO MarshPanel - Invalid error message display - Test Failed
+2020-04-13 00:01:08,059 [main] INFO MarshPanel - Proceed button click with valid Details
+2020-04-13 00:01:08,066 [main] INFO MarshPanel - User Information page display - Test Passed
+2020-04-13 00:03:11,961 [main] INFO MarshPanel - Forgot Password Option selected
+2020-04-13 00:03:15,496 [main] INFO MarshPanel - Proceed button click with email id blank
+2020-04-13 00:03:15,515 [main] INFO MarshPanel - Valid error message display - Test Passed
+2020-04-13 00:03:18,069 [main] INFO MarshPanel - Proceed button click with email id format invalid
+2020-04-13 00:03:18,088 [main] INFO MarshPanel - Valid error message display - Test Passed
+2020-04-13 00:03:23,806 [main] INFO MarshPanel - Proceed button click with wrong email ID
+2020-04-13 00:03:23,827 [main] INFO MarshPanel - Invalid error message display - Test Failed
+2020-04-13 00:03:31,212 [main] INFO MarshPanel - Proceed button click with valid Details
+2020-04-13 00:03:31,219 [main] INFO MarshPanel - User Information page display - Test Passed
+2020-04-13 00:03:31,433 [main] INFO MarshPanel - TeDe58@gm.com
+2020-04-13 00:11:47,384 [main] INFO MarshPanel - Forgot Password Option selected
+2020-04-13 00:11:49,776 [main] INFO MarshPanel - Proceed button click with email id blank
+2020-04-13 00:11:49,800 [main] INFO MarshPanel - Valid error message display - Test Passed
+2020-04-13 00:11:52,358 [main] INFO MarshPanel - Proceed button click with email id format invalid
+2020-04-13 00:11:52,394 [main] INFO MarshPanel - Valid error message display - Test Passed
+2020-04-13 00:11:58,022 [main] INFO MarshPanel - Proceed button click with wrong email ID
+2020-04-13 00:11:58,039 [main] INFO MarshPanel - Invalid error message display - Test Failed
+2020-04-13 00:12:04,021 [main] INFO MarshPanel - Proceed button click with valid Details
+2020-04-13 00:12:04,029 [main] INFO MarshPanel - User Information page display - Test Passed
+2020-04-13 00:12:04,192 [main] INFO MarshPanel - Official Email ID is - TeDe58@gm.com
+2020-04-13 00:12:04,192 [main] INFO MarshPanel - Personal Email id is - Te****@gm.comm
+2020-04-13 00:12:04,193 [main] INFO MarshPanel - Mobile number is - ******0000
+2020-04-13 00:12:09,965 [main] INFO MarshPanel - Generate OTP button click
+2020-04-13 00:12:09,987 [main] INFO MarshPanel - Valid message display - Test Passed

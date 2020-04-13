@@ -1,99 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="1" ignored="0" total="3" passed="2">
+<testng-results skipped="0" failed="1" ignored="0" total="6" passed="5">
   <reporter-output>
   </reporter-output>
-  <suite name="MarshPanel_V1" duration-ms="51361" started-at="2020-04-10T12:22:11 IST" finished-at="2020-04-10T12:23:02 IST">
+  <suite name="MarshPanel_V1" duration-ms="36375" started-at="2020-04-13T00:11:33 IST" finished-at="2020-04-13T00:12:09 IST">
     <groups>
     </groups>
-    <test name="MarshPanel Test" duration-ms="51361" started-at="2020-04-10T12:22:11 IST" finished-at="2020-04-10T12:23:02 IST">
-      <class name="com.MarshPanel.TestCases.TC_Dashboard_001">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.MarshPanel.TestCases.TC_Dashboard_001@458c1321]" name="setup" is-config="true" duration-ms="20235" started-at="2020-04-10T12:22:11 IST" finished-at="2020-04-10T12:22:31 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
+    <test name="MarshPanel Test" duration-ms="36375" started-at="2020-04-13T00:11:33 IST" finished-at="2020-04-13T00:12:09 IST">
+      <class name="com.MarshPanel.TestCases.TC_ForgotPassword_002_OTP">
+        <test-method status="PASS" signature="forgotpassword1()[pri:0, instance:com.MarshPanel.TestCases.TC_ForgotPassword_002_OTP@1f7030a6]" name="forgotpassword1" duration-ms="15942" started-at="2020-04-13T00:11:33 IST" description="Click PROCEED button with email id blank" finished-at="2020-04-13T00:11:49 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.MarshPanel.TestCases.TC_Dashboard_001@458c1321]" name="loginTest" duration-ms="5795" started-at="2020-04-10T12:22:34 IST" data-provider="LoginData" finished-at="2020-04-10T12:22:40 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[TeDe57@gm.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[Test@123]]>
-              </value>
-            </param>
-          </params>
+        </test-method> <!-- forgotpassword1 -->
+        <test-method status="PASS" signature="forgotpassword2()[pri:0, instance:com.MarshPanel.TestCases.TC_ForgotPassword_002_OTP@1f7030a6]" name="forgotpassword2" duration-ms="2558" started-at="2020-04-13T00:11:49 IST" description="Click PROCEED button with incorrect Email format" finished-at="2020-04-13T00:11:52 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="loginTest1(java.lang.String, java.lang.String)[pri:0, instance:com.MarshPanel.TestCases.TC_Dashboard_001@458c1321]" name="loginTest1" duration-ms="6268" started-at="2020-04-10T12:22:40 IST" data-provider="LoginData" finished-at="2020-04-10T12:22:46 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[TeDe57@gm.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[Test@123]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- loginTest1 -->
-        <test-method status="FAIL" signature="loginTest2(java.lang.String, java.lang.String)[pri:0, instance:com.MarshPanel.TestCases.TC_Dashboard_001@458c1321]" name="loginTest2" duration-ms="14646" started-at="2020-04-10T12:22:47 IST" data-provider="LoginData" finished-at="2020-04-10T12:23:01 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[TeDe57@gm.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[Test@123]]>
-              </value>
-            </param>
-          </params>
-          <exception class="org.openqa.selenium.ElementNotInteractableException">
+        </test-method> <!-- forgotpassword2 -->
+        <test-method status="FAIL" signature="forgotpassword3()[pri:0, instance:com.MarshPanel.TestCases.TC_ForgotPassword_002_OTP@1f7030a6]" name="forgotpassword3" duration-ms="6039" started-at="2020-04-13T00:11:52 IST" description="Click PROCEED button with wrong email id" finished-at="2020-04-13T00:11:58 IST">
+          <exception class="java.lang.AssertionError">
             <message>
-              <![CDATA[element not interactable
-  (Session info: chrome=80.0.3987.163)
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-4FMUS56', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.163, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\Ashwini\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:62650}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 1e84e8788d6ea9d5737713396189e8af]]>
+              <![CDATA[expected [true] but found [false]]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.openqa.selenium.ElementNotInteractableException: element not interactable
-  (Session info: chrome=80.0.3987.163)
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-4FMUS56', ip: '192.168.0.105', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.163, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\Users\Ashwini\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:62650}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 1e84e8788d6ea9d5737713396189e8af
-at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
-at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
-at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
-at com.MarshPanel.TestCases.TC_Dashboard_001.loginTest2(TC_Dashboard_001.java:61)
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:97)
+at org.testng.Assert.failNotEquals(Assert.java:969)
+at org.testng.Assert.assertTrue(Assert.java:43)
+at org.testng.Assert.assertTrue(Assert.java:53)
+at com.MarshPanel.TestCases.TC_ForgotPassword_002_OTP.forgotpassword3(TC_ForgotPassword_002_OTP.java:112)
 at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -124,15 +57,23 @@ at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
 ]]>
             </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.ElementNotInteractableException -->
+          </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- loginTest2 -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.MarshPanel.TestCases.TC_Dashboard_001@458c1321]" name="tearDown" is-config="true" duration-ms="744" started-at="2020-04-10T12:23:01 IST" finished-at="2020-04-10T12:23:02 IST">
+        </test-method> <!-- forgotpassword3 -->
+        <test-method status="PASS" signature="forgotpassword4()[pri:0, instance:com.MarshPanel.TestCases.TC_ForgotPassword_002_OTP@1f7030a6]" name="forgotpassword4" duration-ms="5583" started-at="2020-04-13T00:11:58 IST" description="Click PROCEED button with Valid Employee Details" finished-at="2020-04-13T00:12:04 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.MarshPanel.TestCases.TC_Dashboard_001 -->
+        </test-method> <!-- forgotpassword4 -->
+        <test-method status="PASS" signature="forgotpassword5()[pri:0, instance:com.MarshPanel.TestCases.TC_ForgotPassword_002_OTP@1f7030a6]" name="forgotpassword5" duration-ms="161" started-at="2020-04-13T00:12:04 IST" description="Verify User information" finished-at="2020-04-13T00:12:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotpassword5 -->
+        <test-method status="PASS" signature="forgotpassword6()[pri:0, instance:com.MarshPanel.TestCases.TC_ForgotPassword_002_OTP@1f7030a6]" name="forgotpassword6" duration-ms="5793" started-at="2020-04-13T00:12:04 IST" description="Click Generate OTP button without click checkbox" finished-at="2020-04-13T00:12:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotpassword6 -->
+      </class> <!-- com.MarshPanel.TestCases.TC_ForgotPassword_002_OTP -->
     </test> <!-- MarshPanel Test -->
   </suite> <!-- MarshPanel_V1 -->
 </testng-results>

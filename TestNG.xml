@@ -10,7 +10,7 @@
 	<test name="MarshPanel Test">
 		<parameter name="browser" value="chrome" />
 		<classes>
-			<class name="com.MarshPanel.TestCases.TC_Dashboard_001" />
+			<class name="com.MarshPanel.TestCases.TC_ForgotPassword_002_OTP" />
 				</classes>
 </test>
 </suite>
