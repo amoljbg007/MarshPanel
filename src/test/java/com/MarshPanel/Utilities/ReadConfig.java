@@ -53,4 +53,9 @@ public String getFirefoxPath()
 	String firefoxpath = pro.getProperty("firefoxpath");
 	return firefoxpath;
 }
+public String getOTP()
+{
+	String OTP = pro.getProperty("OTP");
+	return OTP;
+	}
 }

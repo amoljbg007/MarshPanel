@@ -733,3 +733,247 @@
 2020-04-13 00:12:04,193 [main] INFO MarshPanel - Mobile number is - ******0000
 2020-04-13 00:12:09,965 [main] INFO MarshPanel - Generate OTP button click
 2020-04-13 00:12:09,987 [main] INFO MarshPanel - Valid message display - Test Passed
+2020-04-13 21:03:21,650 [main] INFO MarshPanel - Forgot Password Option selected
+2020-04-13 21:03:24,154 [main] INFO MarshPanel - Proceed button click with email id blank
+2020-04-13 21:03:24,178 [main] INFO MarshPanel - Valid error message display - Test Passed
+2020-04-13 21:04:12,522 [main] INFO MarshPanel - Proceed button click with email id format invalid
+2020-04-13 21:04:12,564 [main] INFO MarshPanel - Valid error message display - Test Passed
+2020-04-13 21:04:18,678 [main] INFO MarshPanel - Proceed button click with wrong email ID
+2020-04-13 21:04:18,699 [main] INFO MarshPanel - Invalid error message display - Test Failed
+2020-04-13 21:04:25,206 [main] INFO MarshPanel - Proceed button click with valid Details
+2020-04-13 21:04:25,216 [main] INFO MarshPanel - User Information page display - Test Passed
+2020-04-13 21:04:25,380 [main] INFO MarshPanel - Official Email ID is - TeDe58@gm.com
+2020-04-13 21:04:25,380 [main] INFO MarshPanel - Personal Email id is - Te****@gm.comm
+2020-04-13 21:04:25,380 [main] INFO MarshPanel - Mobile number is - ******0000
+2020-04-13 21:04:31,448 [main] INFO MarshPanel - Generate OTP button click
+2020-04-13 21:04:31,471 [main] INFO MarshPanel - Valid message display - Test Passed
+2020-04-13 21:04:34,937 [main] INFO MarshPanel - Submit button click with all the fields blank
+2020-04-13 21:04:34,959 [main] INFO MarshPanel - Valid message display - Test Passed
+2020-04-13 21:04:50,664 [main] INFO MarshPanel - Submit button click
+2020-04-13 21:04:50,684 [main] INFO MarshPanel - Valid message display - Test Passed
+2020-04-13 21:05:07,224 [main] INFO MarshPanel - Submit button click
+2020-04-13 21:05:07,248 [main] INFO MarshPanel - Valid message display - Test Passed
+2020-04-13 21:24:37,600 [main] INFO MarshPanel - URL open
+2020-04-13 21:24:40,033 [main] INFO MarshPanel - Forgot Password Option selected
+2020-04-13 21:24:42,531 [main] INFO MarshPanel - Proceed button click with email id blank
+2020-04-13 21:24:42,553 [main] INFO MarshPanel - Valid error message display - Test Passed
+2020-04-13 21:25:15,000 [main] INFO MarshPanel - Official email ID entered with incorrect format
+2020-04-13 21:25:17,823 [main] INFO MarshPanel - Proceed button click with email id format invalid
+2020-04-13 21:25:17,845 [main] INFO MarshPanel - Valid error message display - Test Passed
+2020-04-13 21:25:20,201 [main] INFO MarshPanel - Worng Official Email ID entered
+2020-04-13 21:25:22,672 [main] INFO MarshPanel - Proceed button click with wrong email ID
+2020-04-13 21:25:22,689 [main] INFO MarshPanel - Invalid error message display - Test Failed
+2020-04-13 21:25:25,641 [main] INFO MarshPanel - Official Email ID entered
+2020-04-13 21:25:28,832 [main] INFO MarshPanel - Proceed button click with valid Details
+2020-04-13 21:25:28,844 [main] INFO MarshPanel - User Information page display - Test Passed
+2020-04-13 21:25:28,977 [main] INFO MarshPanel - Official Email ID is - TeDe58@gm.com
+2020-04-13 21:25:28,977 [main] INFO MarshPanel - Personal Email id is - Te****@gm.comm
+2020-04-13 21:25:28,977 [main] INFO MarshPanel - Mobile number is - ******0000
+2020-04-13 21:25:33,762 [main] INFO MarshPanel - Generate OTP button click
+2020-04-13 21:25:33,789 [main] INFO MarshPanel - Valid message display - Test Passed
+2020-04-13 21:25:36,361 [main] INFO MarshPanel - Submit button click with all the fields blank
+2020-04-13 21:25:36,384 [main] INFO MarshPanel - Valid message display - Test Passed
+2020-04-13 21:25:38,610 [main] INFO MarshPanel - Invalid OTP entered
+2020-04-13 21:25:41,129 [main] INFO MarshPanel - Submit button click without new password
+2020-04-13 21:25:41,148 [main] INFO MarshPanel - Valid message display - Test Passed
+2020-04-13 21:25:43,490 [main] INFO MarshPanel - New password entered
+2020-04-13 21:25:48,047 [main] INFO MarshPanel - Submit button click without confirm password
+2020-04-13 21:25:48,074 [main] INFO MarshPanel - Valid message display - Test Passed
+2020-04-13 21:57:09,154 [main] INFO MarshPanel - URL open
+2020-04-13 21:57:12,013 [main] INFO MarshPanel - Forgot Password Option selected
+2020-04-13 21:57:14,601 [main] INFO MarshPanel - Proceed button click with email id blank
+2020-04-13 21:57:14,622 [main] INFO MarshPanel - Valid error message display - Test Passed
+2020-04-13 21:57:14,816 [main] INFO MarshPanel - Official email ID entered with incorrect format
+2020-04-13 21:57:17,319 [main] INFO MarshPanel - Proceed button click with email id format invalid
+2020-04-13 21:57:17,347 [main] INFO MarshPanel - Valid error message display - Test Passed
+2020-04-13 21:57:19,802 [main] INFO MarshPanel - Worng Official Email ID entered
+2020-04-13 21:57:23,270 [main] INFO MarshPanel - Proceed button click with wrong email ID
+2020-04-13 21:57:23,292 [main] INFO MarshPanel - Invalid error message display - Test Failed
+2020-04-13 22:03:42,406 [main] INFO MarshPanel - URL open
+2020-04-13 22:03:44,961 [main] INFO MarshPanel - Forgot Password Option selected
+2020-04-13 22:03:47,519 [main] INFO MarshPanel - Proceed button click with email id blank
+2020-04-13 22:03:47,544 [main] INFO MarshPanel - Valid error message display - Test Passed
+2020-04-13 22:03:47,717 [main] INFO MarshPanel - Official email ID entered with incorrect format
+2020-04-13 22:03:50,179 [main] INFO MarshPanel - Proceed button click with email id format invalid
+2020-04-13 22:03:50,199 [main] INFO MarshPanel - Valid error message display - Test Passed
+2020-04-13 22:03:52,598 [main] INFO MarshPanel - Worng Official Email ID entered
+2020-04-13 22:03:55,116 [main] INFO MarshPanel - Proceed button click with wrong email ID
+2020-04-13 22:03:55,137 [main] INFO MarshPanel - Invalid error message display - Test Failed
+2020-04-13 22:03:58,332 [main] INFO MarshPanel - Official Email ID entered
+2020-04-13 22:04:01,566 [main] INFO MarshPanel - Proceed button click with valid Details
+2020-04-13 22:04:01,577 [main] INFO MarshPanel - User Information page display - Test Passed
+2020-04-13 22:04:01,733 [main] INFO MarshPanel - Official Email ID is - TeDe58@gm.com
+2020-04-13 22:04:01,734 [main] INFO MarshPanel - Personal Email id is - Te****@gm.comm
+2020-04-13 22:04:01,734 [main] INFO MarshPanel - Mobile number is - ******0000
+2020-04-13 22:04:06,827 [main] INFO MarshPanel - Generate OTP button click
+2020-04-13 22:04:06,846 [main] INFO MarshPanel - Valid message display - Test Passed
+2020-04-13 22:04:09,448 [main] INFO MarshPanel - Submit button click with all the fields blank
+2020-04-13 22:04:09,467 [main] INFO MarshPanel - Valid message display - Test Passed
+2020-04-13 22:04:11,663 [main] INFO MarshPanel - Invalid OTP entered
+2020-04-13 22:04:14,885 [main] INFO MarshPanel - Submit button click without new password
+2020-04-13 22:04:14,907 [main] INFO MarshPanel - Valid message display - Test Passed
+2020-04-13 22:04:17,219 [main] INFO MarshPanel - New password entered
+2020-04-13 22:04:19,722 [main] INFO MarshPanel - Submit button click without confirm password
+2020-04-13 22:04:19,746 [main] INFO MarshPanel - Valid message display - Test Passed
+2020-04-13 22:04:22,086 [main] INFO MarshPanel - Diff confirm password entered
+2020-04-13 22:04:25,227 [main] INFO MarshPanel - Submit button click with diff new and confirm password
+2020-04-13 22:04:25,249 [main] INFO MarshPanel - Valid message display - Test Passed
+2020-04-13 22:04:56,380 [main] INFO MarshPanel - Submit button click
+2020-04-13 22:04:56,398 [main] INFO MarshPanel - Invalid error message/Page display - Test Failed
+2020-04-13 22:11:55,440 [main] INFO MarshPanel - URL open
+2020-04-13 22:11:58,040 [main] INFO MarshPanel - Forgot Password Option selected
+2020-04-13 22:12:00,562 [main] INFO MarshPanel - Proceed button click with email id blank
+2020-04-13 22:12:00,588 [main] INFO MarshPanel - Valid error message display - Test Passed
+2020-04-13 22:12:00,789 [main] INFO MarshPanel - Official email ID entered with incorrect format
+2020-04-13 22:12:03,244 [main] INFO MarshPanel - Proceed button click with email id format invalid
+2020-04-13 22:12:03,262 [main] INFO MarshPanel - Valid error message display - Test Passed
+2020-04-13 22:12:05,937 [main] INFO MarshPanel - Worng Official Email ID entered
+2020-04-13 22:12:08,973 [main] INFO MarshPanel - Proceed button click with wrong email ID
+2020-04-13 22:12:08,993 [main] INFO MarshPanel - Invalid error message display - Test Failed
+2020-04-13 22:12:11,890 [main] INFO MarshPanel - Official Email ID entered
+2020-04-13 22:12:14,331 [main] INFO MarshPanel - Proceed button click with valid Details
+2020-04-13 22:12:14,341 [main] INFO MarshPanel - User Information page display - Test Passed
+2020-04-13 22:12:14,519 [main] INFO MarshPanel - Official Email ID is - TeDe58@gm.com
+2020-04-13 22:12:14,519 [main] INFO MarshPanel - Personal Email id is - Te****@gm.comm
+2020-04-13 22:12:14,520 [main] INFO MarshPanel - Mobile number is - ******0000
+2020-04-13 22:12:19,442 [main] INFO MarshPanel - Generate OTP button click
+2020-04-13 22:12:19,463 [main] INFO MarshPanel - Valid message display - Test Passed
+2020-04-13 22:12:22,071 [main] INFO MarshPanel - Submit button click with all the fields blank
+2020-04-13 22:12:22,092 [main] INFO MarshPanel - Valid message display - Test Passed
+2020-04-13 22:12:24,291 [main] INFO MarshPanel - Invalid OTP entered
+2020-04-13 22:12:26,786 [main] INFO MarshPanel - Submit button click without new password
+2020-04-13 22:12:26,807 [main] INFO MarshPanel - Valid message display - Test Passed
+2020-04-13 22:12:28,989 [main] INFO MarshPanel - New password entered
+2020-04-13 22:12:31,493 [main] INFO MarshPanel - Submit button click without confirm password
+2020-04-13 22:12:31,511 [main] INFO MarshPanel - Valid message display - Test Passed
+2020-04-13 22:12:33,760 [main] INFO MarshPanel - Diff confirm password entered
+2020-04-13 22:12:36,868 [main] INFO MarshPanel - Submit button click with diff new and confirm password
+2020-04-13 22:12:36,890 [main] INFO MarshPanel - Valid message display - Test Passed
+2020-04-13 22:12:39,253 [main] INFO MarshPanel - OTP entered
+2020-04-13 22:12:39,457 [main] INFO MarshPanel - New Password entered
+2020-04-13 22:12:39,637 [main] INFO MarshPanel - Confirm Password entered
+2020-04-13 22:12:42,138 [main] INFO MarshPanel - Submit button click
+2020-04-13 22:12:42,157 [main] INFO MarshPanel - Valid message display - Test Passed
+2020-04-13 22:12:44,591 [main] INFO MarshPanel - OTP entered
+2020-04-13 22:12:44,807 [main] INFO MarshPanel - New Password entered
+2020-04-13 22:12:45,015 [main] INFO MarshPanel - Confirm Password entered
+2020-04-13 22:12:49,020 [main] INFO MarshPanel - Submit button click
+2020-04-13 22:12:49,060 [main] INFO MarshPanel - Invalid error message/Page display - Test Failed
+2020-04-13 22:15:41,870 [main] INFO MarshPanel - URL open
+2020-04-13 22:15:44,380 [main] INFO MarshPanel - Forgot Password Option selected
+2020-04-13 22:15:46,817 [main] INFO MarshPanel - Proceed button click with email id blank
+2020-04-13 22:15:46,845 [main] INFO MarshPanel - Valid error message display - Test Passed
+2020-04-13 22:15:47,022 [main] INFO MarshPanel - Official email ID entered with incorrect format
+2020-04-13 22:15:49,423 [main] INFO MarshPanel - Proceed button click with email id format invalid
+2020-04-13 22:15:49,451 [main] INFO MarshPanel - Valid error message display - Test Passed
+2020-04-13 22:15:51,694 [main] INFO MarshPanel - Worng Official Email ID entered
+2020-04-13 22:15:54,313 [main] INFO MarshPanel - Proceed button click with wrong email ID
+2020-04-13 22:15:54,340 [main] INFO MarshPanel - Invalid error message display - Test Failed
+2020-04-13 22:15:57,155 [main] INFO MarshPanel - Official Email ID entered
+2020-04-13 22:16:00,415 [main] INFO MarshPanel - Proceed button click with valid Details
+2020-04-13 22:16:00,422 [main] INFO MarshPanel - User Information page display - Test Passed
+2020-04-13 22:16:00,596 [main] INFO MarshPanel - Official Email ID is - TeDe58@gm.com
+2020-04-13 22:16:00,597 [main] INFO MarshPanel - Personal Email id is - Te****@gm.comm
+2020-04-13 22:16:00,597 [main] INFO MarshPanel - Mobile number is - ******0000
+2020-04-13 22:16:05,435 [main] INFO MarshPanel - Generate OTP button click
+2020-04-13 22:16:05,463 [main] INFO MarshPanel - Valid message display - Test Passed
+2020-04-13 22:16:08,048 [main] INFO MarshPanel - Submit button click with all the fields blank
+2020-04-13 22:16:08,067 [main] INFO MarshPanel - Valid message display - Test Passed
+2020-04-13 22:16:10,295 [main] INFO MarshPanel - Invalid OTP entered
+2020-04-13 22:16:12,751 [main] INFO MarshPanel - Submit button click without new password
+2020-04-13 22:16:12,774 [main] INFO MarshPanel - Valid message display - Test Passed
+2020-04-13 22:16:15,069 [main] INFO MarshPanel - New password entered
+2020-04-13 22:16:17,508 [main] INFO MarshPanel - Submit button click without confirm password
+2020-04-13 22:16:17,530 [main] INFO MarshPanel - Valid message display - Test Passed
+2020-04-13 22:16:19,826 [main] INFO MarshPanel - Diff confirm password entered
+2020-04-13 22:16:22,385 [main] INFO MarshPanel - Submit button click with diff new and confirm password
+2020-04-13 22:16:22,413 [main] INFO MarshPanel - Valid message display - Test Passed
+2020-04-13 22:16:24,761 [main] INFO MarshPanel - OTP entered
+2020-04-13 22:16:25,017 [main] INFO MarshPanel - New Password entered
+2020-04-13 22:16:25,205 [main] INFO MarshPanel - Confirm Password entered
+2020-04-13 22:16:28,219 [main] INFO MarshPanel - Submit button click
+2020-04-13 22:16:28,243 [main] INFO MarshPanel - Valid message display - Test Passed
+2020-04-13 22:16:30,550 [main] INFO MarshPanel - OTP entered
+2020-04-13 22:16:30,833 [main] INFO MarshPanel - New Password entered
+2020-04-13 22:16:31,018 [main] INFO MarshPanel - Confirm Password entered
+2020-04-13 22:16:33,433 [main] INFO MarshPanel - Submit button click
+2020-04-13 22:16:33,475 [main] INFO MarshPanel - Invalid error message/Page display - Test Failed
+2020-04-13 22:18:14,549 [main] INFO MarshPanel - URL open
+2020-04-13 22:18:17,019 [main] INFO MarshPanel - Forgot Password Option selected
+2020-04-13 22:18:19,508 [main] INFO MarshPanel - Proceed button click with email id blank
+2020-04-13 22:18:19,533 [main] INFO MarshPanel - Valid error message display - Test Passed
+2020-04-13 22:18:19,739 [main] INFO MarshPanel - Official email ID entered with incorrect format
+2020-04-13 22:18:22,083 [main] INFO MarshPanel - Proceed button click with email id format invalid
+2020-04-13 22:18:22,111 [main] INFO MarshPanel - Valid error message display - Test Passed
+2020-04-13 22:18:24,454 [main] INFO MarshPanel - Worng Official Email ID entered
+2020-04-13 22:18:26,977 [main] INFO MarshPanel - Proceed button click with wrong email ID
+2020-04-13 22:18:26,997 [main] INFO MarshPanel - Invalid error message display - Test Failed
+2020-04-13 22:18:29,793 [main] INFO MarshPanel - Official Email ID entered
+2020-04-13 22:18:32,761 [main] INFO MarshPanel - Proceed button click with valid Details
+2020-04-13 22:18:32,768 [main] INFO MarshPanel - User Information page display - Test Passed
+2020-04-13 22:18:32,931 [main] INFO MarshPanel - Official Email ID is - TeDe58@gm.com
+2020-04-13 22:18:32,932 [main] INFO MarshPanel - Personal Email id is - Te****@gm.comm
+2020-04-13 22:18:32,933 [main] INFO MarshPanel - Mobile number is - ******0000
+2020-04-13 22:18:37,832 [main] INFO MarshPanel - Generate OTP button click
+2020-04-13 22:18:37,853 [main] INFO MarshPanel - Valid message display - Test Passed
+2020-04-13 22:18:40,335 [main] INFO MarshPanel - Submit button click with all the fields blank
+2020-04-13 22:18:40,352 [main] INFO MarshPanel - Valid message display - Test Passed
+2020-04-13 22:18:42,590 [main] INFO MarshPanel - Invalid OTP entered
+2020-04-13 22:18:45,396 [main] INFO MarshPanel - Submit button click without new password
+2020-04-13 22:18:45,416 [main] INFO MarshPanel - Valid message display - Test Passed
+2020-04-13 22:18:47,690 [main] INFO MarshPanel - New password entered
+2020-04-13 22:18:50,618 [main] INFO MarshPanel - Submit button click without confirm password
+2020-04-13 22:18:50,636 [main] INFO MarshPanel - Valid message display - Test Passed
+2020-04-13 22:18:52,955 [main] INFO MarshPanel - Diff confirm password entered
+2020-04-13 22:18:55,394 [main] INFO MarshPanel - Submit button click with diff new and confirm password
+2020-04-13 22:18:55,420 [main] INFO MarshPanel - Invalid error message/Page display - Test Failed
+2020-04-13 22:18:58,152 [main] INFO MarshPanel - OTP entered
+2020-04-13 22:18:58,423 [main] INFO MarshPanel - New Password entered
+2020-04-13 22:18:58,676 [main] INFO MarshPanel - Confirm Password entered
+2020-04-13 22:19:01,742 [main] INFO MarshPanel - Submit button click
+2020-04-13 22:19:01,758 [main] INFO MarshPanel - Valid message display - Test Passed
+2020-04-13 22:19:03,953 [main] INFO MarshPanel - OTP entered
+2020-04-13 22:19:04,180 [main] INFO MarshPanel - New Password entered
+2020-04-13 22:19:04,385 [main] INFO MarshPanel - Confirm Password entered
+2020-04-13 22:19:07,042 [main] INFO MarshPanel - Submit button click
+2020-04-13 22:19:07,070 [main] INFO MarshPanel - Invalid error message/Page display - Test Failed
+2020-04-13 22:21:44,696 [main] INFO MarshPanel - URL open
+2020-04-13 22:21:47,158 [main] INFO MarshPanel - Forgot Password Option selected
+2020-04-13 22:21:49,571 [main] INFO MarshPanel - Proceed button click with email id blank
+2020-04-13 22:21:49,591 [main] INFO MarshPanel - Valid error message display - Test Passed
+2020-04-13 22:21:49,758 [main] INFO MarshPanel - Official email ID entered with incorrect format
+2020-04-13 22:21:52,240 [main] INFO MarshPanel - Proceed button click with email id format invalid
+2020-04-13 22:21:52,262 [main] INFO MarshPanel - Valid error message display - Test Passed
+2020-04-13 22:21:54,601 [main] INFO MarshPanel - Worng Official Email ID entered
+2020-04-13 22:21:57,072 [main] INFO MarshPanel - Proceed button click with wrong email ID
+2020-04-13 22:21:57,091 [main] INFO MarshPanel - Invalid error message display - Test Failed
+2020-04-13 22:22:00,026 [main] INFO MarshPanel - Official Email ID entered
+2020-04-13 22:22:03,031 [main] INFO MarshPanel - Proceed button click with valid Details
+2020-04-13 22:22:03,038 [main] INFO MarshPanel - User Information page display - Test Passed
+2020-04-13 22:22:03,172 [main] INFO MarshPanel - Official Email ID is - TeDe58@gm.com
+2020-04-13 22:22:03,172 [main] INFO MarshPanel - Personal Email id is - Te****@gm.comm
+2020-04-13 22:22:03,174 [main] INFO MarshPanel - Mobile number is - ******0000
+2020-04-13 22:22:08,113 [main] INFO MarshPanel - Generate OTP button click
+2020-04-13 22:22:08,131 [main] INFO MarshPanel - Valid message display - Test Passed
+2020-04-13 22:22:10,738 [main] INFO MarshPanel - Submit button click with all the fields blank
+2020-04-13 22:22:10,757 [main] INFO MarshPanel - Valid message display - Test Passed
+2020-04-13 22:22:12,962 [main] INFO MarshPanel - Invalid OTP entered
+2020-04-13 22:22:15,654 [main] INFO MarshPanel - Submit button click without new password
+2020-04-13 22:22:15,677 [main] INFO MarshPanel - Valid message display - Test Passed
+2020-04-13 22:22:17,947 [main] INFO MarshPanel - New password entered
+2020-04-13 22:22:20,610 [main] INFO MarshPanel - Submit button click without confirm password
+2020-04-13 22:22:20,633 [main] INFO MarshPanel - Valid message display - Test Passed
+2020-04-13 22:22:22,866 [main] INFO MarshPanel - New password entered
+2020-04-13 22:22:23,040 [main] INFO MarshPanel - Diff confirm password entered
+2020-04-13 22:22:25,501 [main] INFO MarshPanel - Submit button click with diff new and confirm password
+2020-04-13 22:22:25,516 [main] INFO MarshPanel - Valid message display - Test Passed
+2020-04-13 22:22:27,882 [main] INFO MarshPanel - OTP entered
+2020-04-13 22:22:28,125 [main] INFO MarshPanel - New Password entered
+2020-04-13 22:22:28,351 [main] INFO MarshPanel - Confirm Password entered
+2020-04-13 22:22:30,777 [main] INFO MarshPanel - Submit button click
+2020-04-13 22:22:30,801 [main] INFO MarshPanel - Valid message display - Test Passed
+2020-04-13 22:22:33,099 [main] INFO MarshPanel - OTP entered
+2020-04-13 22:22:33,281 [main] INFO MarshPanel - New Password entered
+2020-04-13 22:22:33,567 [main] INFO MarshPanel - Confirm Password entered
+2020-04-13 22:22:35,996 [main] INFO MarshPanel - Submit button click
+2020-04-13 22:22:36,020 [main] INFO MarshPanel - Invalid error message/Page display - Test Failed

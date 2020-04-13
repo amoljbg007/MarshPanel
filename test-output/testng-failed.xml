@@ -9,6 +9,7 @@
     <classes>
       <class name="com.MarshPanel.TestCases.TC_ForgotPassword_002_OTP">
         <methods>
+          <include name="forgotpassword12"/>
           <include name="forgotpassword3"/>
         </methods>
       </class> <!-- com.MarshPanel.TestCases.TC_ForgotPassword_002_OTP -->
